@@ -1,0 +1,1 @@
+ Please feel free to copy anything on this site as the documentation under the docs tab is under <a href="https://creativecommons.org/licenses/by/4.0/legalcode" target="_blank">CC BY License</a> and all source code listed on this site is under the <a href="/static/licenses/mit.txt" target="_blank">MIT License</a>.
