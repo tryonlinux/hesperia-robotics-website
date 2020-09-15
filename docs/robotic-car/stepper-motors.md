@@ -1,5 +1,5 @@
 ---
-id: steeper-motors 
+id: stepper-motors 
 title: Stepper Motors
 sidebar_label: Stepper Motors
 ---
